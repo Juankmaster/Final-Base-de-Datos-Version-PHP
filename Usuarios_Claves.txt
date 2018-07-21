@@ -1,0 +1,10 @@
+ Usuarios:
+
+ nombre="Juan carlos" 
+ usuario="juank@hotmail.com clave=12345
+
+ nombre="Pablo jose"   
+usuario="pablo@hotmail.com clave=12345
+
+ nombre="Diana josefa" 
+usuario="dieg@hotmail.com  clave=98765
